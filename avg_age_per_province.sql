@@ -1,0 +1,1 @@
+SELECT * FROM kpi_avg_age_per_province;
